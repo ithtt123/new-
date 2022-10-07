@@ -48,7 +48,7 @@ border-bottom: 1px solid #282b33;
 }
 
 .text-avatar{
-  display: inline-block;
+  display: inline-block ;
   width: 40px;
   height: 40px;
   background-color: #009688;
@@ -59,7 +59,7 @@ border-bottom: 1px solid #282b33;
   position: relative;
   top: 4px;
   margin-right: 10px;
-  /* display: none; */
+  /* display: none ; */
 }
 
 #welcome{
